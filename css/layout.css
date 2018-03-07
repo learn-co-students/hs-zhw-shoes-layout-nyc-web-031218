@@ -25,3 +25,29 @@
 /* Posititoning Classes */
 
 
+.col-1 {
+  width: 32%;
+  float: left;
+  margin-left: 2%;
+}
+
+.col-2 {
+  width: 66%;
+  float: left;
+}
+
+.col-3 {
+  width: 100%;
+}
+
+.first {
+  margin-left: 0px;
+}
+
+#featured {
+  margin-top: 20px;
+}
+
+#deals {
+  margin-top: 20px;
+}
